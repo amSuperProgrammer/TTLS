@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/cross.unity
+    path: Assets/Open Me and Run.unity
     guid: 26162ae3fbf6f414f96cb0cc12d11489
   m_configObjects: {}
